@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Login Into the APP",
+    "owner": "Rishabh Sharma",
+    "description": "User logs into the App using mobile number and password. Brute force logins can be tried over there. To protect this, we added rate limiting in the login API."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Koustub"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "Jagan Mohan Ungati, Sreehari"
+  }
+}
